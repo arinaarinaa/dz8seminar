@@ -1,0 +1,15 @@
+C:\Users\днс\OneDrive\Рабочий стол\dz8seminar\first\obj\Debug\net6.0\first.csproj.AssemblyReference.cache
+C:\Users\днс\OneDrive\Рабочий стол\dz8seminar\first\obj\Debug\net6.0\first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\днс\OneDrive\Рабочий стол\dz8seminar\first\obj\Debug\net6.0\first.AssemblyInfoInputs.cache
+C:\Users\днс\OneDrive\Рабочий стол\dz8seminar\first\obj\Debug\net6.0\first.AssemblyInfo.cs
+C:\Users\днс\OneDrive\Рабочий стол\dz8seminar\first\obj\Debug\net6.0\first.csproj.CoreCompileInputs.cache
+C:\Users\днс\OneDrive\Рабочий стол\dz8seminar\first\bin\Debug\net6.0\first.exe
+C:\Users\днс\OneDrive\Рабочий стол\dz8seminar\first\bin\Debug\net6.0\first.deps.json
+C:\Users\днс\OneDrive\Рабочий стол\dz8seminar\first\bin\Debug\net6.0\first.runtimeconfig.json
+C:\Users\днс\OneDrive\Рабочий стол\dz8seminar\first\bin\Debug\net6.0\first.dll
+C:\Users\днс\OneDrive\Рабочий стол\dz8seminar\first\bin\Debug\net6.0\first.pdb
+C:\Users\днс\OneDrive\Рабочий стол\dz8seminar\first\obj\Debug\net6.0\first.dll
+C:\Users\днс\OneDrive\Рабочий стол\dz8seminar\first\obj\Debug\net6.0\refint\first.dll
+C:\Users\днс\OneDrive\Рабочий стол\dz8seminar\first\obj\Debug\net6.0\first.pdb
+C:\Users\днс\OneDrive\Рабочий стол\dz8seminar\first\obj\Debug\net6.0\first.genruntimeconfig.cache
+C:\Users\днс\OneDrive\Рабочий стол\dz8seminar\first\obj\Debug\net6.0\ref\first.dll
